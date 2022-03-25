@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @chniani
 - 👀 I’m interested in gourmet
 - 🌱 I’m currently learning Javascript
-- 📫 How to reach me? -> `weicheng.c@pm.me`
+- 📫 How to reach me? -> `chniani@outlook.com`
 
 > That's it, I'll add more 😄
 
