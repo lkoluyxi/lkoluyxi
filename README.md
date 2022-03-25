@@ -1,6 +1,6 @@
 ## Let me say something
 
-- 👋 Hi, I’m @wbeimoting
+- 👋 Hi, I’m @chniani
 - 👀 I’m interested in gourmet
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me? -> `weicheng.c@pm.me`
