@@ -1,9 +1,9 @@
 ## Let me say something
 
-- 👋 Hi, I’m @chniani
+- 👋 Hi, I’m ĹḴḶůỴẌÏ
 - 👀 I’m interested in gourmet
 - 🌱 I’m currently learning Javascript
-- 📫 How to reach me? -> `chniani@outlook.com`
+- 📫 How to reach me? -> `lkoluyxi@outlook.com`
 
 > That's it, I'll add more 😄
 
